@@ -1,7 +1,8 @@
-/*
-#  =ID
-.  = CLASS
-:  = PSEUDO-CLASS
-:: =PSEUDO-ELEMENT
->  =CLIDREN
-*/
+      =>SELETORES PERSONALIZADOS<=
+    /*
+      #  =ID
+      .  = CLASS
+      :  = PSEUDO-CLASS
+      :: =PSEUDO-ELEMENT
+      >  =CLIDREN
+   */
